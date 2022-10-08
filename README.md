@@ -7,6 +7,8 @@
 
 下载：[https://github.com/Physton/LibreHardwareMonitorCN/releases/tag/0.9.0](https://github.com/Physton/LibreHardwareMonitorCN/releases/tag/0.9.0)
 
+衍生项目：[Physton/LibreHardwareMonitorJsonServer](https://github.com/Physton/LibreHardwareMonitorJsonServer)
+
 项目来自：[LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor)
 
 ![screenshot-1.png](https://raw.githubusercontent.com/Physton/LibreHardwareMonitorCN/main/screenshot-1.png)
